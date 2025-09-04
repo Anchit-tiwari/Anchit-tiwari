@@ -1,4 +1,4 @@
-I am a c and c++ programmer
+I am just a c and c++ programmer
 
 <!---
 Anchit-tiwari/Anchit-tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
